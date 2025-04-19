@@ -35,7 +35,7 @@ Perfect for coffee lovers who enjoy a fun, sweet, and girly aesthetic! 💕
 
 Here’s what’s brewing for Qaffein’s next updates:
 
-### 🌸 Pages to Add
+### 🌸 TO DO:
 - **Home Sweet Home** – A cozier, animated welcome screen.
 - **The Coffee Bar** – A detailed menu with icons, prices & dreamy drinks.
 - **About Qaffein** – A peek behind the scenes (aka: your story!).
