@@ -42,7 +42,7 @@ Here’s what’s brewing for Qaffein’s next updates:
 - **Contact** – Let your customers leave a message or get in touch.
 - **The Photo Cupboard** – A gallery of cozy coffee moments.
 
-### 🔐 Functional Features
+### 🔐 TO DO CONTEXT:
 - **Login / Signup** – For personalized coffee orders & favorites.
 - **Shopping Cart** – Buy your perfect cup with a click. ☕🛒
 - **Customize Your Cup** – Choose milk types, flavors, toppings & more.
