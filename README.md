@@ -1,6 +1,6 @@
 # 💖 Qaffein - Your Dreamy Online Café! ☕🌸
 
-[🌐 View Live Site](https://rezouali-imane.github.io/Qaffein/)
+[🌐 View Live Site](https://qaffein.netlify.app/)
 
 Welcome to **Qaffein**, the cutest online coffee shop you'll ever need! 💅💖 This is a super adorable website where you can find everything about your favorite coffees and a lot more. ☕🎀
 
